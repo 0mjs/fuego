@@ -1,0 +1,12 @@
+_data
+__pycache__
+config
+
+secret.py
+
+/test_*.py
+test_*.py
+.DS_Store
+.DS_Store*
+.pytest_cache
+tests/*
